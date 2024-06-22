@@ -1,3 +1,3 @@
-# testing
+# Chirsty testing skills
 
-A new Flutter project.
+Testing my skills to work on app named Christy
